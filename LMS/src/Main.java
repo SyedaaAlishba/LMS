@@ -332,6 +332,7 @@ public class Main {
             }
         }else {
             System.out.println("Login failed. Exiting program.");
+            System.out.println("hehehe");
         }
     }
 }
